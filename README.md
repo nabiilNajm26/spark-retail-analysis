@@ -24,6 +24,7 @@ project-root/
 ├── docker-compose.yml
 └── README.md
 ```
+Files lengkapnya bisa dicek di sini: [https://drive.google.com/drive/folders/1uw1i8q61ujgoDwgbjBminLTMAlvxhyV_?usp=sharing]
 
 ## Prasyarat
 Pastikan Anda telah menginstal Docker dan Docker Compose sebelum menjalankan proyek ini.
