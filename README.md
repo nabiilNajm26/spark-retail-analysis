@@ -18,12 +18,11 @@ project-root/
 ├── docker/
 ├── sql/
 ├── notebooks/
-│   ├── ddl-retail.sql
-│   ├── ingest-retail.sql
-│   └── warehouse-ddl.sql
 ├── scripts/
 ├── datahub/
-└── README.md
+├── README.md
+├── LICENSE
+└── Makefile
 ```
 Files lengkapnya bisa dicek di sini: [https://drive.google.com/drive/folders/1uw1i8q61ujgoDwgbjBminLTMAlvxhyV_?usp=sharing]
 
