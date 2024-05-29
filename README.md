@@ -13,15 +13,16 @@ project-root/
 ├── spark-scripts/
 │   └── spark-retail-analysis.py
 ├── logs/
-├── config/
-│   └── airflow.cfg
 ├── data/
 │   └── online-retail-dataset.csv
+├── docker/
 ├── sql/
+├── notebooks/
 │   ├── ddl-retail.sql
 │   ├── ingest-retail.sql
 │   └── warehouse-ddl.sql
-├── docker-compose.yml
+├── scripts/
+├── datahub/
 └── README.md
 ```
 Files lengkapnya bisa dicek di sini: [https://drive.google.com/drive/folders/1uw1i8q61ujgoDwgbjBminLTMAlvxhyV_?usp=sharing]
